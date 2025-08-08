@@ -6,6 +6,11 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
+        "155y": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "155采集",
+      "detail": "https://155api.com"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
